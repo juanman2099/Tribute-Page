@@ -1,2 +1,3 @@
 # Tribute Page
-Página estática que rinde homenaje a una figura destacada, presentando su biografía e imágenes.
+
+A static page that pays tribute to a historical or inspirational figure, with images and biography.
