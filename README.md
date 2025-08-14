@@ -1,3 +1,19 @@
 # Tribute Page
 
-A static page that pays tribute to a historical or inspirational figure, with images and biography.
+## Description
+
+A simple, static yet elegant tribute page dedicated to a historical figure I admire. Built with clean semantic HTML and responsive CSS, the layout adapts to any screen size while keeping the focus on the story and visuals.
+
+## Features
+
+° Semantic HTML for clear content structure.
+
+° Responsive typography and layout.
+
+° Full-width image header with captions.
+
+° Accessible design for better readability.
+
+## Live Demo
+
+[Click here to see the project in action](https://spectacular-biscochitos-479617.netlify.app/)
