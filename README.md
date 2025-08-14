@@ -16,4 +16,4 @@ A simple, static yet elegant tribute page dedicated to a historical figure I adm
 
 ## Live Demo
 
-[Click here to see the project in action](https://spectacular-biscochitos-479617.netlify.app/)
+[Click here to see the project in action](https://juanman2099.github.io/Tribute-Page/)
